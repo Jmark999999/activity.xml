@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+  <animal type="Horse">
+    <animal breed="Arabian horse">
+      <scientific_name>Equus caballus</scientific_name>
+      <role_in_foodchain>Herbivores</role_in_foodchain>
+      <average_life>25-30 yrs</average_life>
+      <legs_total>4</legs_total>
+      <taxonomy_class>Mammals</taxonomy_class>
+      <bones_total>206</bones_total>
+      
+    </animal>
+  </animal>
+
+  <animal type="Cat">
+    <animal breed="American Bobtail Cat">
+      <scientific_name>Felis silvestris catus</scientific_name>
+      <role_in_foodchain>Carnivores</role_in_foodchain>
+      <average_life>10-20 yrs</average_life>
+      <legs_total>4</legs_total>
+      <taxonomy_class>Mammals</taxonomy_class>
+      <bones_total>230</bones_total>
+      
+    </animal>
+  </animal>
+
+  <animal type="Dog">
+    <animal breed="German Shepherd">
+      <scientific_name>Caris lupus familiaris</scientific_name>
+      <role_in_foodchain>Omnivores</role_in_foodchain>
+      <average_life>10-13 yrs</average_life>
+      <legs_total>4</legs_total>
+      <taxonomy_class>Mammals</taxonomy_class>
+      <bones_total>321</bones_total>
+      
+    </animal>
+  </animal>
+  
+  <animal type="Elephant">
+    <animal breed="African forest elephant">
+      <scientific_name>Loxodonta africana and Elephas maximus</scientific_name>
+      <role_in_foodchain>Herbivores</role_in_foodchain>
+      <average_life>60-70 yrs</average_life>
+      <legs_total>4</legs_total>
+      <taxonomy_class>Mammals</taxonomy_class>
+      <bones_total>326–351</bones_total>
+      
+    </animal>
+  </animal>
+</animals>
